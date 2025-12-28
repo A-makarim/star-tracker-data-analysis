@@ -1,0 +1,14 @@
+# requirements for star tracker data analysis
+numpy>=1.24
+matplotlib>=3.7
+astropy>=5.2
+photutils>=1.8
+rawpy>=0.17
+imageio>=2.31
+scikit-image>=0.20
+scikit-learn>=1.2
+requests>=2.31
+
+# Optional / helpful
+# pandas>=2.1  # only if you want to load CSVs into DataFrames
+# scipy>=1.11  # required indirectly by some packages
