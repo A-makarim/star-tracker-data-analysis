@@ -14,5 +14,7 @@ check config.py comments for API guidance
 
 Can make futher improvements in constellation_data.py as per needs
 
+Astronomical imagery credit: Mahad Ahmed Baloch, Cedar Collge star tracker team. 
+
 
 
